@@ -5,7 +5,7 @@
 
 ## Link làm bài: https://xn--300bicode-t1a.vn/problem
 
-# Yêu cầu:
+## Yêu cầu:
 - C++: phiên bản 17 trở lên 
 - Python: phiên bản 3.12 trở lên 
 
