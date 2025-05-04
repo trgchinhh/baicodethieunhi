@@ -25,4 +25,6 @@
 ![image](https://github.com/user-attachments/assets/b9dca48c-76b2-439f-95a3-12f15f66abd3)
 
 ## Thư viện cơ bản
+- Link file thư viện: https://github.com/trgchinhh/SERIES_100BCTN_CPP/blob/main/thuviencoban.h
+  
 ![image](https://github.com/user-attachments/assets/0ea89e89-7231-4480-b7f9-37a3b4eb4e47)
