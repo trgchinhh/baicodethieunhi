@@ -19,7 +19,7 @@
 # Screenshot
 
 ## Web làm bài 
-![image](https://github.com/user-attachments/assets/42151b67-fe14-4436-9fc8-647b4d9bcf4b)
+![image](https://github.com/user-attachments/assets/34c9dbfc-6c41-4b0f-a77f-12f36680786d)
 
 ## Kiểm thử bài 99/100
 ![image](https://github.com/user-attachments/assets/b9dca48c-76b2-439f-95a3-12f15f66abd3)
