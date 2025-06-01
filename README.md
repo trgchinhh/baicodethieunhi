@@ -1,4 +1,4 @@
-# SERIES 100 BÀI CODE THIẾU NHI C++ 
+# 100 BÀI CODE THIẾU NHI C++ 
 
 ## Giới thiệu: 
 - Đây là 97/100 bài code thiếu nhi mà mình đã làm, sẽ bổ sung 3 bài còn lại sau !
