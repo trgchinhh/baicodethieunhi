@@ -1,9 +1,11 @@
 # 100 BÀI CODE THIẾU NHI C++ 
 
 ## Giới thiệu: 
-- Đây là 97/100 bài code thiếu nhi mà mình đã làm, sẽ bổ sung 3 bài còn lại sau !
+- Đây là 97/100 bài code thiếu nhi (web cũ) mà mình đã làm, sẽ bổ sung 3 bài còn lại sau !
 
-## Link làm bài: https://xn--300bicode-t1a.vn/problem
+## Link làm bài: 
+- Web cũ: [Xem tại đây](https://v0.xn--300bicode-t1a.vn/)
+- Web mới: [Xem tại đây](https://xn--300bicode-t1a.vn/problems/?order=code)
 
 ## Yêu cầu:
 - C++: phiên bản 17 trở lên 
