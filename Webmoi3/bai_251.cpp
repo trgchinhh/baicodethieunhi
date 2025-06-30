@@ -12,7 +12,7 @@ const int C_MAX = 1e5, C_MIN = -1e5, c_INF = 1e9;
 
 bool snt(int n){
     if(n < 2) return false;
-    for(int i = 2; i * i<= n; i++){
+    for(int i = 2; i <= sqrt(n); i++){
         if(n % i == 0) return false;
     }
     return true;
@@ -20,16 +20,15 @@ bool snt(int n){
 
 void c_solve(void){
     int n; cin >> n;
-    map<int, bool> ma;
-    for(int i = 0; i < n; i++){
-        int x; cin >> x;
-        ma[x] = true;
-    }
+    int a[n];
+    vector<bool> b(10000, true);
     int check = 0;
-    for(auto x : ma){
-        if(snt(x.first)){
-            check =1;
-            cout << x.first << endl;
+    for(int i = 0; i < n; i++){
+        cin >> a[i];
+        if(snt(a[i]) && b[a[i]] == true){
+            cout << a[i] << endl;
+            b[a[i]] = false;
+            check = 1;
         }
     }
     if(!check){
