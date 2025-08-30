@@ -28,13 +28,12 @@
 
 ## Web làm bài 
 
-<!--
+
 ### Web cũ 
 ![image](https://github.com/user-attachments/assets/34c9dbfc-6c41-4b0f-a77f-12f36680786d)
 
 ### Web mới 
 ![image](https://github.com/user-attachments/assets/983b370a-3cfe-4a99-9fce-0ec202ee7b68)
--->
 
 ## Thư viện cơ bản
 - Link file thư viện: https://github.com/trgchinhh/SERIES_100BCTN_CPP/blob/main/thuviencoban.h
